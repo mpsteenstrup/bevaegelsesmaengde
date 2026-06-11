@@ -2,7 +2,7 @@
 
 Simulering af bevægelsesmængde i 1 og 2 dimensioner, herunder gravity assist.
 
-
+[LINK: bevægelsesmængde](https://mpsteenstrup.github.io/bevaegelsesmaengde/1d)
 
 
 Mads Peter H. Steenstrup, Rysensteen Gymnasium, 2026, 
